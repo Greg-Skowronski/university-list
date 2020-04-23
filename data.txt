@@ -1,0 +1,24 @@
+4
+Computer Science
+5
+28349812V,John Smith,0
+93451230K,Ana Cruise,0
+43902294S,Anthony Miligun,1
+73451200N,Eva Catila,1
+23483553E,Kyle Pablo,0
+Business and Technology
+3
+91320802X,Alan Walker,1
+73100937C,Kate Burst,0
+69447305F,Nina Kitt,1
+Psychology
+1
+49374917C,Hai Ziung,1
+Biotechnology
+5
+92744560N,Ivo Moyern,0
+82889312S,Phily Missy,1
+53892134I,Yay Gitty,0
+94673219F,Pablo Born,0
+23483553E,Kyle Pablo,0
+
